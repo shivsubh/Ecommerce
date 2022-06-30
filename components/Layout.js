@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/Link";
+import Link from "next/link";
 import { signOut, useSession } from "next-auth/react";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
